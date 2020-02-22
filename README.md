@@ -5,6 +5,8 @@ We'll learn how to generate text using an RNN. Specifically, we'll use an RNN to
  
 ### Data source :https://github.com/torvalds/linux/tree/master/kernel   
 
+### Platform used: https://www.nimblebox.ai/
+
 We're going to build a C code generator by training an RNN on a huge corpus of C code (the linux kernel code). You can download the C code used as source text from the following link: https://github.com/torvalds/linux/tree/master/kernel  
 You can find the code in this GitHub repository.     
 Download the code and make sure that you gather all the C files present inside the folders of the kernel at one single place.
